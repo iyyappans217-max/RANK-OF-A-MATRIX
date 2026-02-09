@@ -24,11 +24,11 @@ Print the rank of the matrix.
 
 #Program to find the rank of a matrix.
 
-import numpy as np
+```import numpy as np
 a = np.array( [[1,2,3],[3,6,9]])
 solution  = np.linalg.matrix_rank(a)
 print(solution)
-
+```
 ## Output:
 
 <img width="1103" height="404" alt="image" src="https://github.com/user-attachments/assets/4497d672-8c8d-4367-a89f-f54176bf2c2a" />
